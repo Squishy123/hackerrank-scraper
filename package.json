@@ -1,0 +1,23 @@
+{
+  "name": "hackerrank-scraper",
+  "version": "1.0.0",
+  "description": "Scrape Hackerrank Problems and Submissions",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Squishy123/hackerrank-scraper.git"
+  },
+  "author": "Squishy123",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Squishy123/hackerrank-scraper/issues"
+  },
+  "homepage": "https://github.com/Squishy123/hackerrank-scraper#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "puppeteer": "^8.0.0"
+  }
+}
